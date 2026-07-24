@@ -1,7 +1,5 @@
 # Hi, I'm Subham 👋
 
-Electrical and Electronics Engineering student at Nalanda College of Engineering.
-
 I'm interested in
 
 - Python
@@ -20,7 +18,3 @@ Projects
 - Matrix Calculator
 - Resistor Color Code Calculator
 
-Connect with me
-
-Email:
-subhamchowdhary107@gmail.com
