@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Subham 👋
 
-<!--
-**subhamjsx/subhamjsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering student at Nalanda College of Engineering.
 
-Here are some ideas to get you started:
+I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Artificial Intelligence
+- Electronics
+- Problem Solving
+
+Currently Learning
+
+- Data Structures
+- Git & GitHub
+- Machine Learning
+
+Projects
+
+- Matrix Calculator
+- Resistor Color Code Calculator
+
+Connect with me
+
+Email:
+subhamchowdhary107@gmail.com
